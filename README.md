@@ -4,3 +4,5 @@
 # RStudio on Binder
 
 Demo on how to run RStudio on https://mybinder.org.
+
+Thanks to [@annefou](https://github.com/annefou) for showing me this nice trick!
